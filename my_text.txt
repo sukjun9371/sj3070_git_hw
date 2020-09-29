@@ -1,2 +1,4 @@
 Hi!
 
+I am going to add some lines to the text file.
+Hope there is no problem.
